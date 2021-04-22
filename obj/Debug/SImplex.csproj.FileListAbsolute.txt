@@ -1,0 +1,7 @@
+C:\Users\drmig\source\repos\SImplex\SImplex\obj\Debug\SImplex.csprojAssemblyReference.cache
+C:\Users\drmig\source\repos\SImplex\SImplex\obj\Debug\SImplex.csproj.CoreCompileInputs.cache
+C:\Users\drmig\source\repos\SImplex\SImplex\bin\Debug\SImplex.exe.config
+C:\Users\drmig\source\repos\SImplex\SImplex\bin\Debug\SImplex.exe
+C:\Users\drmig\source\repos\SImplex\SImplex\bin\Debug\SImplex.pdb
+C:\Users\drmig\source\repos\SImplex\SImplex\obj\Debug\SImplex.exe
+C:\Users\drmig\source\repos\SImplex\SImplex\obj\Debug\SImplex.pdb
